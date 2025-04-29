@@ -1,0 +1,48 @@
+.container{
+    padding: 20px;
+}
+
+.round-blue-btn{
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#hero .row .dev-info {
+    padding: 20px 0;
+}
+
+.round-blue-btn:hover{
+    background-color: rgb(22, 96, 255);
+}
+
+.grey-bg{
+    background-color: honeydew;
+}
+
+.navbar a{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.navbar{
+    height: 50px;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #bbbbbb;
+}
+
+#summery .row .card{
+    height: 150px;
+    margin: 10px 0;
+}
+
+.radius{
+    border-radius: 10px;
+}
